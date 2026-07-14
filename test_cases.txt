@@ -1,0 +1,73 @@
+TEST CASES
+
+Test Case 1
+Input:
+Name: Rahul
+Marks: 95
+
+Expected Output:
+Grade: A
+Message: Outstanding! Keep up the excellent work!
+
+--------------------------------
+
+Test Case 2
+Input:
+Name: Priya
+Marks: 85
+
+Expected Output:
+Grade: B
+Message: Great job! You're doing really well.
+
+--------------------------------
+
+Test Case 3
+Input:
+Name: Aman
+Marks: 74
+
+Expected Output:
+Grade: C
+Message: Good effort! Keep practicing to improve.
+
+--------------------------------
+
+Test Case 4
+Input:
+Name: Riya
+Marks: 62
+
+Expected Output:
+Grade: D
+Message: You're passing! Work a little harder for better results.
+
+--------------------------------
+
+Test Case 5
+Input:
+Name: Karan
+Marks: 48
+
+Expected Output:
+Grade: F
+Message: Failure is not the end. Keep learning and try again!
+
+--------------------------------
+
+Test Case 7
+Input:
+Marks: 120
+
+Expected Output:
+Marks must be between 0 and 100.
+
+--------------------------------
+
+
+Test Case 9
+Input:
+Marks: abc
+
+Expected Output:
+Invalid input! Please enter a numeric value.
